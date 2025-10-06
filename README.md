@@ -1,57 +1,62 @@
-# Hi there 👋, I'm [Your Name]
+# Hello, I'm [Your Name] 👋
 
-I'm a passionate Software Developer and a second-year student at the University of Portsmouth. I enjoy solving real-world problems with code and am constantly learning new technologies.
+I am a results-driven Software Developer and a second-year Computer Science student at the University of Portsmouth. I specialize in backend and mobile development with expertise in PostgreSQL, Python, Dart, and Java. I am passionate about building scalable, efficient solutions and continuously improving my skills by working on real-world projects.
 
 ---
 
-## 🏫 Education
+## Education
 
 **BSc (Hons) Computer Science**  
-University of Portsmouth (2024–2026)
+University of Portsmouth | Expected Graduation: 2026
 
 ---
 
-## 💻 Skills
+## Technical Skills
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## Projects & Experience
 
-- Advanced database design
-- Mobile app development with Flutter
+### Student Attendance App  
+*Dart / Flutter | PostgreSQL*  
+Designed and developed a scalable mobile application for real-time student attendance tracking, leveraging Flutter for cross-platform UI and PostgreSQL for robust backend data management.
 
----
+### Data Analysis Pipelines  
+*Python*  
+Implemented data scraping, cleaning, and visualization pipelines for multiple datasets, enhancing insights through automation and effective use of libraries like Pandas and Matplotlib.
 
-## 📌 Projects
-
-- **Student Attendance App (Dart/Flutter & PostgreSQL):**  
-  A mobile application to track student attendance in real time.
-- **Python Data Analysis:**  
-  Several Python projects for data science, including web scraping and data visualization.
-- **Java Game Project:**  
-  Simple 2D games using object-oriented programming concepts.
+### Java Game Development  
+*Java*  
+Built interactive 2D games applying object-oriented programming principles, improving understanding of game development frameworks and software design patterns.
 
 ---
 
-## 📈 GitHub Stats
+## Open to Opportunities
+
+I am actively seeking internship or graduate roles where I can contribute my skills in software development while gaining industry experience at innovative, technology-driven companies.
+
+---
+
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Get in Touch
+## Contact
 
-- University email: your-email@myport.ac.uk
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- University Email: your-email@myport.ac.uk  
+- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)  
+- Portfolio: [your-portfolio-link.com] (optional)
 
 ---
 
-_Always open to collaborate on meaningful open source projects!_
+*Committed to delivering clean, maintainable code and solving complex challenges at scale.*  
