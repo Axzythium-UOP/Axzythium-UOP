@@ -1,17 +1,12 @@
 # Hello, I'm [Your Name] 👋
 
-I am a results-driven Software Developer and a second-year Computer Science student at the University of Portsmouth. I specialize in backend and mobile development with expertise in PostgreSQL, Python, Dart, and Java. I am passionate about building scalable, efficient solutions and continuously improving my skills by working on real-world projects.
+Welcome to my developer profile!  
+I am a results-driven Software Developer and second-year Computer Science student at the University of Portsmouth.  
+Specializing in backend and mobile development with skills in PostgreSQL, Python, Dart, and Java.
 
 ---
 
-## Education
-
-**BSc (Hons) Computer Science**  
-University of Portsmouth | Expected Graduation: 2026
-
----
-
-## Technical Skills
+## 🚀 Technical Skills
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -23,40 +18,40 @@ University of Portsmouth | Expected Graduation: 2026
 
 ---
 
-## Projects & Experience
+## 📚 Education
 
-### Student Attendance App  
-*Dart / Flutter | PostgreSQL*  
-Designed and developed a scalable mobile application for real-time student attendance tracking, leveraging Flutter for cross-platform UI and PostgreSQL for robust backend data management.
-
-### Data Analysis Pipelines  
-*Python*  
-Implemented data scraping, cleaning, and visualization pipelines for multiple datasets, enhancing insights through automation and effective use of libraries like Pandas and Matplotlib.
-
-### Java Game Development  
-*Java*  
-Built interactive 2D games applying object-oriented programming principles, improving understanding of game development frameworks and software design patterns.
+**BSc (Hons) Computer Science**  
+University of Portsmouth | Expected 2026
 
 ---
 
-## Open to Opportunities
+## 🎯 What I’m Doing
 
-I am actively seeking internship or graduate roles where I can contribute my skills in software development while gaining industry experience at innovative, technology-driven companies.
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+🎓 Mastering advanced database design & mobile app development  
+⚡ Building efficient, scalable, maintainable code  
+🌱 Continuously learning and growing as a developer
 
 ---
 
-## Contact
+## 📈 GitHub Stats
 
-- University Email: your-email@myport.ac.uk  
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)  
-- Portfolio: [your-portfolio-link.com] (optional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-*Committed to delivering clean, maintainable code and solving complex challenges at scale.*  
+## 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@myport.ac.uk)  
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Coding Animation" width="300"/>
+</div>
+
+---
+
+*Committed to excellence and innovation in software development.*  
