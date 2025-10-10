@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L7LYsaGrob2LCciJiZ/giphy.gif" width="150" alt="coding animation" />
 </p>
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Dan 👋
 
 **University of Portsmouth | 2nd Year Computer Science Student**  
 Focused on writing clean, efficient code and creating meaningful software experiences.
